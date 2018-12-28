@@ -16,7 +16,7 @@ GTT is very simple to use - in order to run it open a command line at the extrac
 folder location (where you have downloaded all GTT files), and type the following
 command:
 
-	GTT.py --source=img_path [--log_level=logLevel] [--scale=scaleLevel] [--x_y_max X_max Y_MAX]
+	py -3 GTT.py --source=img_path [--log_level=logLevel] [--scale=scaleLevel] [--x_y_max X_max Y_MAX]
 	
 	[] - represents an optional parameter.
 	In addition to this paper, you may ask for help with the following command:
